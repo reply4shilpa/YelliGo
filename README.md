@@ -24,6 +24,6 @@ Extent Report API to Generate Excellent Test Report.
 
 Driving the Common Properties like Url, Username and Password from Configuration.properites File.
 
-All Common Methods have been written in src/main/java/com/crm/qa/Utilities/TestUtility.java
+All Common Methods have been written in src/main/java/com/TestUtility.java
 
 Failed Test Screenshot that gets added into Extent Report - Code is Written in TestBase.java Class.
