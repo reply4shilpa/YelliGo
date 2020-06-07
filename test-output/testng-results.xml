@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16902" started-at="2020-06-06T20:32:12 PDT" finished-at="2020-06-06T20:32:29 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16902" started-at="2020-06-06T20:32:12 PDT" finished-at="2020-06-06T20:32:29 PDT">
+      <class name="com.yelligo.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.yelligo.testcases.HomePageTest@1e965684]" name="setup" is-config="true" duration-ms="7590" started-at="2020-06-06T20:32:13 PDT" finished-at="2020-06-06T20:32:20 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testLogoDisplayed()[pri:0, instance:com.yelligo.testcases.HomePageTest@1e965684]" name="testLogoDisplayed" duration-ms="1788" started-at="2020-06-06T20:32:20 PDT" finished-at="2020-06-06T20:32:22 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogoDisplayed -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.yelligo.testcases.HomePageTest@1e965684]" name="teardown" is-config="true" duration-ms="842" started-at="2020-06-06T20:32:22 PDT" finished-at="2020-06-06T20:32:23 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.yelligo.testcases.HomePageTest@1e965684]" name="setup" is-config="true" duration-ms="5676" started-at="2020-06-06T20:32:23 PDT" finished-at="2020-06-06T20:32:28 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testValidateTitle()[pri:0, instance:com.yelligo.testcases.HomePageTest@1e965684]" name="testValidateTitle" duration-ms="51" started-at="2020-06-06T20:32:28 PDT" finished-at="2020-06-06T20:32:28 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidateTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.yelligo.testcases.HomePageTest@1e965684]" name="teardown" is-config="true" duration-ms="872" started-at="2020-06-06T20:32:28 PDT" finished-at="2020-06-06T20:32:29 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.yelligo.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

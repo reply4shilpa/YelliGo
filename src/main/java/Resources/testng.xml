@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" parallel="tests">
+  <listeners>
+  <listener class-name="extentReportListener.ExtentReporterNG"/> 
+  </listeners>
+  <test name="Test">
+  <!--ff, safari, chrome, safari -->
+ <!--  <parameter name="browser" value="chrome"></parameter> -->
+     <classes>
+     <class name="com.yelligo.testcases.RegistrationPageTest"/>
+     <class name="com.yelligo.testcases.LoginPageTest"/>
+     <class name="com.yelligo.testcases.HomePageTest"/>
+    
+    </classes>
+ 
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
